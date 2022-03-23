@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ascyphermoonshot
+- 👀 I’m interested in plants, data science, AI and biohacking
+- 🌱 I’m currently learning Python and SQL
